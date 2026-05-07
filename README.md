@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nickmoon(Moon) Mware</h1>
-<h3 align="center">A passionate software developer with a specialization in Natural Language Programs (NLP).</h3>
+<h3 align="center">A passionate data scientist and educator with a specialization in Natural Language Programs (NLP).</h3>
 
 - 🔭 I’m currently working on **TuChat**
 
