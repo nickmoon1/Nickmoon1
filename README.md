@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **TuChat**
 
-- 👯 I’m looking to collaborate on **any opensource NLP projects.**
+- 👯 I’m looking to collaborate on **any opensource NLP and Data Science projects.**
 
 - 👨‍💻 All of my projects are available at [https://www.nickmoonmware.com/](https://www.nickmoonmware.com/)
 
 - 📫 How to reach me **nickmoonmware.com**
 
-- ⚡ Fun fact **I enjoy playing video games. FC 24 and 2K24 are my favorites.**
+- ⚡ Fun fact **I enjoy playing video games. FC and 2K are my favorites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
